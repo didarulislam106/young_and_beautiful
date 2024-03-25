@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "young_and_beautiful", "young_and_beautiful\young_and_beautiful.csproj", "{46A15C55-6B9D-4725-8CEF-03C87E1ABD19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "young_and_beautiful", "young_and_beautiful\young_and_beautiful.csproj", "{46A15C55-6B9D-4725-8CEF-03C87E1ABD19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "young_and_beautiful.BOL", "young_and_beautiful.BOL\young_and_beautiful.BOL.csproj", "{73BCEE92-C869-4DC4-9A2B-4824287F5203}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{46A15C55-6B9D-4725-8CEF-03C87E1ABD19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46A15C55-6B9D-4725-8CEF-03C87E1ABD19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46A15C55-6B9D-4725-8CEF-03C87E1ABD19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BCEE92-C869-4DC4-9A2B-4824287F5203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BCEE92-C869-4DC4-9A2B-4824287F5203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BCEE92-C869-4DC4-9A2B-4824287F5203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BCEE92-C869-4DC4-9A2B-4824287F5203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
